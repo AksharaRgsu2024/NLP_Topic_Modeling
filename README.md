@@ -4,7 +4,6 @@ The aim is to cluster similar documents together, using important keywords. It a
 The different techniques tested for topic modeling are:
 - Bag of Words and LDA
 - TFIDF and LDA
-- TFIDF and NMF
 - N Gram and LDA
 - Doc2Vec and Kmeans
 
