@@ -7,4 +7,4 @@ The different techniques tested for topic modeling are:
 - N Gram and LDA
 - Doc2Vec and Kmeans
 
-![Alt text](output_LDA.png?raw=true)
+
